@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695C5FA9-2B0F-4548-BDF4-BC3EBA822E5F}|C# Class Managment (Basic)\\C# Class Managment (Basic).csproj|c:\\users\\user\\desktop\\task10\\c# class managment (basic)\\c# class managment (basic)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695C5FA9-2B0F-4548-BDF4-BC3EBA822E5F}|C# Class Managment (Basic)\\C# Class Managment (Basic).csproj|solutionrelative:c# class managment (basic)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695C5FA9-2B0F-4548-BDF4-BC3EBA822E5F}|C# Class Managment (Basic)\\C# Class Managment (Basic).csproj|c:\\users\\user\\desktop\\task10\\c# class managment (basic)\\c# class managment (basic)\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695C5FA9-2B0F-4548-BDF4-BC3EBA822E5F}|C# Class Managment (Basic)\\C# Class Managment (Basic).csproj|solutionrelative:c# class managment (basic)\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695C5FA9-2B0F-4548-BDF4-BC3EBA822E5F}|C# Class Managment (Basic)\\C# Class Managment (Basic).csproj|c:\\users\\user\\desktop\\task10\\c# class managment (basic)\\c# class managment (basic)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695C5FA9-2B0F-4548-BDF4-BC3EBA822E5F}|C# Class Managment (Basic)\\C# Class Managment (Basic).csproj|solutionrelative:c# class managment (basic)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\C# Class Managment (Basic)\\Program.cs",
+              "RelativeDocumentMoniker": "C# Class Managment (Basic)\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\C# Class Managment (Basic)\\Program.cs",
+              "RelativeToolTip": "C# Class Managment (Basic)\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:27:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\C# Class Managment (Basic)\\Student.cs",
+              "RelativeDocumentMoniker": "C# Class Managment (Basic)\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\C# Class Managment (Basic)\\Student.cs",
+              "RelativeToolTip": "C# Class Managment (Basic)\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwC4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:28:28.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\C# Class Managment (Basic)\\Group.cs",
+              "RelativeDocumentMoniker": "C# Class Managment (Basic)\\Group.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task10\\C# Class Managment (Basic)\\C# Class Managment (Basic)\\Group.cs",
+              "RelativeToolTip": "C# Class Managment (Basic)\\Group.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:30:16.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

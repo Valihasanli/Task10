@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\bin\Debug\net8.0\C# Class Managment (Basic).exe
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\bin\Debug\net8.0\C# Class Managment (Basic).deps.json
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\bin\Debug\net8.0\C# Class Managment (Basic).runtimeconfig.json
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\bin\Debug\net8.0\C# Class Managment (Basic).dll
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\bin\Debug\net8.0\C# Class Managment (Basic).pdb
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).AssemblyInfo.cs
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).dll
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\refint\C# Class Managment (Basic).dll
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).pdb
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\C# Class Managment (Basic).genruntimeconfig.cache
+C:\Users\User\Desktop\Task10\C# Class Managment (Basic)\C# Class Managment (Basic)\obj\Debug\net8.0\ref\C# Class Managment (Basic).dll
